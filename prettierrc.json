@@ -1,0 +1,32 @@
+{
+  "trailingComma": "all",
+  "tabWidth": 2,
+  "printWidth": 100,
+  "semi": false,
+
+  "singleQuote": true,
+  "quoteProps": "as-needed",
+  "jsxSingleQuote": false,
+  "arrowParens": "always",
+
+  "bracketSpacing": true,
+  "proseWrap": "always",
+  "singleAttributePerLine": true,
+  "endOfLine": "auto",
+
+  "importOrder": [
+    "@/app/(.*)$",
+    "@/widgets",
+    "@/features",
+    "@/entities",
+    "@/shared",
+    "@/lib/(.*)$",
+    "@/assets/(.*)$",
+    "@/fonts",
+    "^[./]"
+  ],
+  "importOrderSeparation": true,
+  "importOrderMergeDuplicateImports": true,
+  "importOrderTypeImportsToBottom": true,
+  "importOrderSortSpecifiers": true
+}
