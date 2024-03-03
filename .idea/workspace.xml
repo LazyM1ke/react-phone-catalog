@@ -4,25 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63a9ae9b-af4f-428c-8e56-f7f554b03661" name="Changes" comment="init x2">
-      <change afterPath="$PROJECT_DIR$/prettierrc.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Catalog/Catalog.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/AdminPage/AdminPage.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/AdminPage/LoginPage/LoginPage.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/HomePage/HomePage.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/hooks/hooks.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/reducers/RootReducer.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/reducers/UsersSlice.ts" afterDir="false" />
+    <list default="true" id="63a9ae9b-af4f-428c-8e56-f7f554b03661" name="Changes" comment="Изменил табоицу, добавил админку и форму авторизации в нее">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Catalog/index.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/CatalogItem/index.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/HomePage/HomePage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/HomePage/HomePage.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +62,7 @@
       <workItem from="1709412654609" duration="2290000" />
       <workItem from="1709416057004" duration="3207000" />
       <workItem from="1709419600348" duration="4951000" />
-      <workItem from="1709466183191" duration="2457000" />
+      <workItem from="1709466183191" duration="2818000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -104,7 +88,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699657040815</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Изменил табоицу, добавил админку и форму авторизации в нее">
+      <option name="closed" value="true" />
+      <created>1709501940255</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709501940255</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,6 +116,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="init x2" />
-    <option name="LAST_COMMIT_MESSAGE" value="init x2" />
+    <MESSAGE value="Изменил табоицу, добавил админку и форму авторизации в нее" />
+    <option name="LAST_COMMIT_MESSAGE" value="Изменил табоицу, добавил админку и форму авторизации в нее" />
   </component>
 </project>
